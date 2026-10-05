@@ -19,7 +19,7 @@ ProductRepository
   v
 Product Entity / Database
 
-Layer Responsibilities
+## Layer Responsibilities
 Controller
 ProductController receives HTTP requests from the client and returns the corresponding HTTP responses.
 Responsibilities:

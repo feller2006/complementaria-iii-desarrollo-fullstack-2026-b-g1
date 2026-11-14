@@ -103,3 +103,18 @@ I recognize the importance of security and automation in DevSecOps.
 ### Reporte detallado
 
 ![Reporte del examen](./evidencias/09-reporte-examen.png)
+
+## 8. Certificado oficial de finalización
+
+Se completó satisfactoriamente el curso HCCDA-Cloud Native Course de Huawei ICT Academy.
+
+- Fecha de inicio: 2 de noviembre de 2026.
+- Fecha de emisión del certificado: 14 de noviembre de 2026.
+- Progreso del curso: 100 %.
+- Resultado del simulacro: 87/100 puntos.
+- Estado: Aprobado.
+
+### Constancia oficial de Huawei ICT Academy
+
+![Certificado Huawei HCCDA Cloud Native](./evidencias/10-certificado-huawei.png)
+

@@ -68,3 +68,38 @@ I understand how Kubernetes manages containerized workloads.
 I can identify the benefits of microservice architectures.
 I understand the role of Istio in service communication.
 I recognize the importance of security and automation in DevSecOps.
+
+## 6. Evidencias de los capítulos
+
+### Capítulo 1 — Cloud Native Architectures
+![Capítulo 1](./evidencias/01-capitulo-1.png)
+
+### Capítulo 2 — Containers
+![Capítulo 2](./evidencias/02-capitulo-2.png)
+
+### Capítulo 3 — Kubernetes
+![Capítulo 3](./evidencias/03-capitulo-3.png)
+
+### Capítulo 4 — Huawei Cloud Container Services
+![Capítulo 4](./evidencias/04-capitulo-4.png)
+
+### Capítulo 5 — Microservice Architecture
+![Capítulo 5](./evidencias/05-capitulo-5.png)
+
+### Capítulo 6 — Istio
+![Capítulo 6](./evidencias/06-capitulo-6.png)
+
+### Capítulo 7 — Cloud Native DevSecOps
+![Capítulo 7](./evidencias/07-capitulo-7.png)
+
+## 7. Resultado del examen final
+
+**Calificación:** 87/100 puntos.
+
+**Resultado:** Aprobado.
+
+![Examen final](./evidencias/08-examen-final.png)
+
+### Reporte detallado
+
+![Reporte del examen](./evidencias/09-reporte-examen.png)
